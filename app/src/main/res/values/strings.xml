@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BDFinance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_deposit_and_loan">DepositAndLoan</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string-array name="title">
+        <item>shrimp</item>
+        <item>steak</item>
+        <item>sandwich</item>
+        <item>salad</item>
+        <item>fish</item>
+    </string-array>
+    <string-array name="description">
+        <item>publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate</item>
+        <item>the visual form of a document or a typeface without relying on meaningful </item>
+        <item>publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate</item>
+        <item>the visual form of a document or a typeface without relying on meaningful</item>
+        <item>publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate</item>
+    </string-array>
+</resources>
